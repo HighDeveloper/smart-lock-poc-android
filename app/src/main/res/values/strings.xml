@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">POC_SMART_LOCK</string>
+    <string name="greeting">Hi there!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="welcome">Welcome to our application</string>
+    <string name="logout">Logout</string>
+</resources>
